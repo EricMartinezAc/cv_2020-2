@@ -1,0 +1,91 @@
+/*article*/
+#datosPersonales {
+    justify-items: center;
+    text-align: justify;
+}
+.datosPersonales h4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #ede;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #eee;
+}
+.datosPersonales i {
+    margin-right: 10px;
+}
+.datosPersonales label {
+    margin-left: 30px;
+}
+.exp {
+    margin: 0 30px;
+    color: #efe;
+}
+/*section*/
+#perfilLaboral {
+    text-align: justify;
+    padding-left: 30px;
+    margin-left: 0px;
+    border-left: 2px solid steelblue;
+}
+#perfilLaboral .header {
+    background-image: url(./img/cab2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    width: 100%;
+    height: 150px;
+    margin: 20px 0;
+}
+#fotoPerfil {
+    position: relative;
+    top: -100px;
+    display: block;
+    margin: 20px auto;
+    width: 30%;
+    border-radius: 200px;
+}
+#perfilLaboral h3 {
+    margin-bottom: 50px;
+    position: relative;
+    top: -100px;
+}
+#perfilLaboral h3 i {
+    margin-right: 30px;
+}
+#perfilLaboral p {
+    position: relative;
+    top: -100px;
+}
+section h2 i {
+    margin-right: 20px;
+}
+/*Footer*/
+#firma {
+    border-bottom: 2px solid #8c9;
+}
+.firma {
+    border-bottom: 2px solid #454;
+    background-image: url(./img/firma.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 300px;
+}
+.footer {
+    padding: 10px 50px;
+    color: #efe;
+}
+.footer i {
+    padding: 0 5px;
+}
+
+/*otros*/
+.border-botton {
+    padding: 20px 0;
+    border-bottom: 1px solid #ede;
+}
+li {
+    list-style: none;
+}
